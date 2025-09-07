@@ -1,4 +1,4 @@
-package com.yooshyasha
+package com.yooshyasha.scope
 
 import kotlinx.coroutines.DelicateCoroutinesApi
 import kotlinx.coroutines.GlobalScope
