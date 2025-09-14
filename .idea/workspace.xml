@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4481f41-577f-4940-8e4e-8f4e609dc7f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/flow/ExceptionHandlingMain.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/FlowTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -49,24 +51,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build CoroutiniesPet.executor": "Run",
-    "Kotlin.CancelCoroutineMainKt.executor": "Run",
-    "Kotlin.CancelScopeMainKt.executor": "Run",
-    "Kotlin.ExceptionHandlingMainKt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Mi/Documents/Projects/projects/CoroutiniesPet",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build CoroutiniesPet.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.CancelCoroutineMainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.CancelScopeMainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ExceptionHandlingMainKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mi/Documents/Projects/projects/CoroutiniesPet&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Kotlin.ExceptionHandlingMainKt">
     <configuration name="CancelCoroutineMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yooshyasha.CancelCoroutineMainKt" />
@@ -129,7 +131,8 @@
       <workItem from="1757080563055" duration="4000" />
       <workItem from="1757530382151" duration="1345000" />
       <workItem from="1757577643871" duration="618000" />
-      <workItem from="1757578541766" duration="2485000" />
+      <workItem from="1757578541766" duration="3966000" />
+      <workItem from="1757839712699" duration="128000" />
     </task>
     <servers />
   </component>
